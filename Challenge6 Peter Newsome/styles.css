@@ -1,0 +1,19 @@
+main{
+    width: 100%;
+}
+
+.searchcontainer{
+    border: solid black;
+    display: flex;
+}
+#forecast{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.forecast-item{
+    background-color: rgb(87, 87, 233);
+    border: solid black;
+    padding: 10px;
+}
